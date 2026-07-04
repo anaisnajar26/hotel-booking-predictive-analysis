@@ -1,6 +1,6 @@
 # 🏨 Análisis Predictivo de Reservas Hoteleras
 
-Este proyecto aborda el flujo completo de ciencia de datos (End-to-End) sobre un conjunto de datos del sector hotelero con **más de 36.000 registros**. El objetivo principal es identificar patrones de comportamiento de los clientes y desarrollar modelos predictivos avanzados capaces de anticipar la demanda y las cancelaciones de reservas para optimizar la toma de decisiones estratégicas y gestionar el overbooking de forma segura.
+Este proyecto aborda el flujo completo de ciencia de datos sobre un conjunto de datos del sector hotelero con **más de 36.000 registros**. El objetivo principal es identificar patrones de comportamiento de los clientes y desarrollar modelos predictivos avanzados capaces de anticipar la demanda y las cancelaciones de reservas para optimizar la toma de decisiones estratégicas y gestionar el overbooking de forma segura.
 
 ---
 
