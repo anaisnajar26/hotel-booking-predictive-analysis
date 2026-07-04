@@ -8,7 +8,7 @@ Este proyecto aborda el flujo completo de ciencia de datos sobre un conjunto de 
 
 El proyecto está estructurado de forma cronológica siguiendo las fases reales de un desarrollo en Ciencia de Datos:
 
-### 📁 01-data-extraction-sql/
+### 📁 01-data-extraction-SQL/
 * **Contenido:** Estructuración de la base de datos en SQL.
 * **Hito:** Consultas métricas iniciales para segmentar el comportamiento de las cancelaciones según los canales de distribución y el perfil del cliente.
 
@@ -16,11 +16,11 @@ El proyecto está estructurado de forma cronológica siguiendo las fases reales 
 * **Contenido:** Presentación ejecutiva de resultados.
 * **Hito:** Identificación visual de los KPI clave de ocupación, estacionalidad de tarifas en los meses de verano y el impacto crítico del canal *Online* (36.5% de tasa de cancelación).
 
-### 📁 03-statistical-analysis-r/
+### 📁 03-statistical-analysis-R/
 * **Contenido:** Scripts de análisis estadístico avanzado en R.
 * **Hito:** Modelado y validación de hipótesis matemáticas para confirmar la correlación entre el tiempo de anticipación de la reserva (*lead time*) y el riesgo real de cancelación.
 
-### 📁 04-machine-learning-python/
+### 📁 04-machine-learning-Python/
 * **Contenido:** Pipeline completo de Machine Learning en Python con preparación de datos limpia (prevención de *data leakage*), balanceo de clases y ordenación temporal estricta.
 * **Modelos Evaluados:** CART (Árbol de Decisión), Random Forest, XGBoost, LightGBM y Redes Neuronales Profundas (MLP).
 * **Analítica Avanzada:** 
