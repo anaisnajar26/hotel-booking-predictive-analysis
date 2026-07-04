@@ -185,10 +185,10 @@ media_por_grupo = df_trees.groupby('market_segment_type')['avg_price_per_room'].
 df_trees['precio_lag1'] = df_trees['precio_lag1'].fillna(media_por_grupo)
 
 # ==============================================================================
-# 7. SPLIT TEMPORAL (70% Train | 20% Val | 10% Test)
+# 7. SPLIT TEMPORAL (60% Train | 25% Val | 15% Test)
 # ==============================================================================
-pct_val  = 0.20
-pct_test = 0.20
+pct_val  = 0.25
+pct_test = 0.15
 
 columnas_a_borrar = [
     'Booking_ID', 'arrival_year', 'arrival_month', 'arrival_date', 'date',
